@@ -1,0 +1,602 @@
+[
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__using_gruyere",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__using_gruyere",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__reflected_xss",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__reflected_xss",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__setup",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__setup",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/gruyere-code.zip",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/gruyere-code.zip",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/login",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/login",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?gruyere.py",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?gruyere.py",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resoources/dump.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resoources/dump.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__stored_xss",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__stored_xss",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__information_disclosure_config_2",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__information_disclosure_config_2",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__more_dos",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__more_dos",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/editprofile.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/editprofile.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__buffer_and_integer_overflow",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__buffer_and_integer_overflow",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__reset_button",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__reset_button",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__other_vulnerabilities",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__other_vulnerabilities",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/newaccount.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/newaccount.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/snippets.gtl?uid=cheddar",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/snippets.gtl?uid=cheddar",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__code_execution_challenge",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__code_execution_challenge",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?data.py",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?data.py",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__code_execution",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__code_execution",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__denial_of_service",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__denial_of_service",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__path_traversal",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__path_traversal",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__more_about_xss",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__more_about_xss",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__configuration_vulnerabilities",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__configuration_vulnerabilities",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__file_upload_xss",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__file_upload_xss",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__xss_challenge",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__xss_challenge",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/static/codeindex/html",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/static/codeindex/html",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/start",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/start",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/#0__hackers",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/#0__hackers",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/feed.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/feed.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__phishing_via_ajax",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__phishing_via_ajax",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__ajax_vulnerabilities",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__ajax_vulnerabilities",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__information_disclosure_path_traversal",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__information_disclosure_path_traversal",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__after_the_codelab",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__after_the_codelab",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__about_the_code",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__about_the_code",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__stored_xss_via_html_attribute",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__stored_xss_via_html_attribute",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__more_about_preventing_xsrf",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__more_about_preventing_xsrf",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__xsrf_challenge",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__xsrf_challenge",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__information_disclosure_config_1",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__information_disclosure_config_1",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__dos_quit_server",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__dos_quit_server",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__features_and_technologies",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1#1__features_and_technologies",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__xssi_challenge",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__xssi_challenge",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__cookie_manipulation",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__cookie_manipulation",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__more_code_execution",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__more_code_execution",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/error.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/error.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/#0__gruyere",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/#0__gruyere",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__information_disclosure_bug_3",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__information_disclosure_bug_3",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/dump.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/dump.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__client_state_manipulation",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__client_state_manipulation",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__reflected_xss_via_ajax",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__reflected_xss_via_ajax",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__dos_via_ajax",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__dos_via_ajax",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__cross_site_script_inclusion",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__cross_site_script_inclusion",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__sql_injection",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part5#5__sql_injection",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__stored_xss_via_ajax",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__stored_xss_via_ajax",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part1",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__cross_site_scripting",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2#2__cross_site_scripting",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?gtl.py",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?gtl.py",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/menubar.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/menubar.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__cross_site_request_forgery",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__cross_site_request_forgery",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/manage.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/manage.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__elevation_of_privilege",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part3#3__elevation_of_privilege",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/static/gruyere.png",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/static/gruyere.png",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?sanitize.py",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?sanitize.py",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__data_tampering_path_traversal",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__data_tampering_path_traversal",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__dos_overload_server",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4#4__dos_overload_server",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/snippets.gtl?uid=brie",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/425189748561209247157681962057050091854/snippets.gtl?uid=brie",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part2",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/home.gtl",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/code/?resources/home.gtl",
+        "type": "XSS"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4",
+        "type": "SQL Injection"
+    },
+    {
+        "url": "https://google-gruyere.appspot.com/part4",
+        "type": "XSS"
+    }
+]

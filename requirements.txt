@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.3
+certifi==2024.12.14
+charset-normalizer==3.4.1
+idna==3.10
+requests==2.32.3
+soupsieve==2.6
+urllib3==2.3.0
+
+# pip install -r requirements.txt
+
+# python3 -m venv venv
+# source venv/bin/activate
+# python3 main.py
